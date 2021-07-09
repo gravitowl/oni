@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  background: url("./Oni_Plush.png");
+  background-size: 32px;
+  font-family: "Roboto";
+}
+
+h1 {
+  text-shadow: 0px 4px 4px #282828;
+  color: purple;
+  font-size: 5rem;
+}
+
+p {
+  font-size: 2rem;
+  color: pink;
+  text-shadow: 0px 4px 4px #282828;
+}
